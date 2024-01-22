@@ -3,7 +3,7 @@ const nodemailer = require('nodemailer');
 // Replace the following placeholders with your actual Hotmail/Outlook email credentials
 const emailConfig = {
   user: 'rewaayasser@hotmail.com',
-  pass: 'rio.2000',
+  pass: '',
 };
 
 // Replace 'to' with your own email address
